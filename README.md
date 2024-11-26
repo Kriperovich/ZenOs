@@ -1,4 +1,8 @@
 # ZenOs
-The very easy os
+The very easy os which is made in Python!!!!!!
 
-Image[Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+# *__Commands__*
+help
+calc
+game
+clear
